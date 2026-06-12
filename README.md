@@ -1,12 +1,12 @@
 # sake-public
 
-**S**ystematic benchm**A**rking of T1-MRI preprocessing pipelines and classical machine learning models against 3D CNNs for Alzheimer's disease classification — the **S**wiss **A**rmy **K**nif**E** for brain MRI research.
+Systematic benchmarking of T1-MRI preprocessing pipelines and classical machine learning models against 3D CNNs for Alzheimer's disease classification — the **S**wiss **A**rmy **K**nif**E** for brain MRI research.
 
-This repository accompanies the IEEE Healthcom 2025 paper:
+This repository accompanies the IEEE Healthcom 2026 paper:
 
 > **Classical MRI Pipelines Rival Deep Learning for Dementia Classification: A Benchmarking Study**
 > Anastasia Gailly de Taurines, Payam Barnaghi, Ben Glocker, Fiona Kekwick, Alexander Capstick, Paresh Malhotra
-> *IEEE International Conference on E-health Networking, Application & Services (Healthcom), 2025*
+> *IEEE International Conference on E-health Networking, Application & Services (Healthcom), 2026*
 
 ---
 
@@ -152,11 +152,11 @@ Values are mean ± SD across 5 Monte-Carlo cross-validation seeds.
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{gaillyde taurines2025sake,
+@inproceedings{gaillyde taurines2026sake,
   title     = {Classical MRI Pipelines Rival Deep Learning for Dementia Classification: A Benchmarking Study},
   author    = {Gailly de Taurines, Anastasia and Barnaghi, Payam and Glocker, Ben and Kekwick, Fiona and Capstick, Alexander and Malhotra, Paresh},
   booktitle = {IEEE International Conference on E-health Networking, Application \& Services (Healthcom)},
-  year      = {2025}
+  year      = {2026}
 }
 ```
 
