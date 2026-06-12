@@ -132,16 +132,14 @@ Or use the interactive `deep_learning/CNN-run.ipynb` notebook. Training uses the
 | Approach | Best combination | AUCROC | Accuracy |
 |---|---|---|---|
 | Classical ML | CAT12 + XGBoost (no feat. selection) | 96.1 ± 1.0% | 90.7 ± 1.5% |
-| Classical ML | CAT12 + LR (no feat. selection) | 96.1 ± 0.7% | — |
 | CNN | ResNet50 | 94.1 ± 1.4% | 85.9 ± 4.5% |
-| CNN | DenseNet121 | 94.0 ± 1.0% | 83.1 ± 5.7% |
 
 ### AIBL (external validation, n=575)
 
 | Approach | Best combination | AUCROC |
 |---|---|---|
-| Classical ML (CAT12) | XGBoost + MRMR | 96.5 ± 1.9% |
-| CNN | ResNet50 (trained from scratch) | 84.5 ± 7.2% |
+| Classical ML | CAT12 + XGBoost (MRMR) | 96.5 ± 1.9% |
+| CNN | ResNet50 | 84.5 ± 7.2% |
 
 Values are mean ± SD across 5 Monte-Carlo cross-validation seeds.
 
