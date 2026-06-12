@@ -1,0 +1,5 @@
+DKT atlas produced by Mindboggle project.
+Paper: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2012.00171/full
+Website: https://mindboggle.readthedocs.io/en/latest/labels.html
+ROI labels also found at the website.
+Lobe information adapted from: https://www.cis.jhu.edu/~parky/MRN/Desikan%20Region%20Labels%20and%20Descriptions.pdf

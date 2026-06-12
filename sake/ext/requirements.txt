@@ -1,0 +1,5 @@
+Other files you need in this directory:
+- Freesurfer's license.txt file. Necessary to run Freesurfer, Fastsurfer and SynthSeg. To obtain this, you need to register for a free license key at: https://surfer.nmr.mgh.harvard.edu/fswiki/License
+- Fastsurfer's fastsurfer-cpu-latest.sif Singularity image (you can use Docker or a different Singularity setup). Instructions can be found at: https://github.com/Deep-MI/FastSurfer
+- SPM12's toolbox folder. Necessary for SPM12 and CAT12. This can be downloaded at: https://github.com/spm/spm12
+- CAT12's toolbox folder. Follow installation instructions here: https://neuro-jena.github.io/cat/index.html#DOWNLOAD
